@@ -4,7 +4,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Discord](https://img.shields.io/discord/1056311828344483840?label=discord&color=7289da)](https://discord.gg/minipad)
-[![Downloads](https://img.shields.io/github/downloads/minipadkb/minipad-firmware/total)](https://github.com/minipadKB/minipad-firmware/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/minipadkb/minipad/total)](https://github.com/minipadKB/minipad/releases/latest)
 [![Latest Release](https://img.shields.io/github/v/release/minipadkb/minipad?color=dd00dd)](https://github.com/minipadKB/minipad/releases/latest)
 
 The PCB and case files for the minipad, an RP2040-based 2-3-key keypad for the rhythm game osu!.
@@ -17,6 +17,10 @@ which can be found in our GitHub repository [here](https://github.com/minipadkb/
 <div align="center">
 <i>Made with ❤️ by Project Minipad</i>
 </div>
+
+# Which file should I download?
+
+Head over to the [releases section](https://github.com/minipadKB/minipad/releases/latest). There, you can find the latest release and it's `Case.zip` and `PCB.zip` files. Download and extract them and you'll see a `2k` and `3k` folder in each archive. Depending on your desired amount of keys, use the files in that folder.
 
 # Project Structure
 
