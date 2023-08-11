@@ -17,3 +17,13 @@ which can be found in our GitHub repository [here](https://github.com/minipadkb/
 <div align="center">
 <i>Made with ❤️ by Project Minipad</i>
 </div>
+
+# Project Structure
+
+The root folder of this repository is split into two folders, `Latest` and `Older Versions`. It is advised to only use the latest files.</br>
+`Latest` contains the files for the newest version of the minipad PCB and Case.</br>
+`Older Versions` contains a number of folders representing older releases of the PCBs and Cases.
+
+Inside each versions folder you can find a `PCB` folder, containing a `2k` and `3k` folder for the two variants of the keypad, and a `Case` folder, containing the .stl files for the 3D-print.
+
+If you are unsure about what to do or you're having any questions, feel free to join our [Discord](https://discord.gg/minipad)!
